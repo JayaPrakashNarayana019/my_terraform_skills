@@ -1,0 +1,3 @@
+# Terrafrom 
+#download from terraform.io and unzip and move the terrafrom bin to /usr/local/bin 
+#terraform --version
