@@ -1,3 +1,14 @@
 # Terrafrom 
 #download from terraform.io and unzip and move the terrafrom bin to /usr/local/bin 
 #terraform --version
+
+#terraform on Windows 
+Download the 64bit Terraform Executable to your laptop
+- unzip the file and move to a specific path in users 
+- add path to the ENV PATH in system varibales 
+- terraform --version 
+
+# packer 
+Same steps as above 
+packer --version
+
